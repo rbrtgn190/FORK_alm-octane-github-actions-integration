@@ -1,4 +1,4 @@
-name: 'ALM Octane GitHub Actions Integration'
+name: 'FORK VE GitHub Actions'
 description: 'Sends CI/CD data from GitHub Actions to ALM Octane.'
 inputs:
   octaneUrl:
